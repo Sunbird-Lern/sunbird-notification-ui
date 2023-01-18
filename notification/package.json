@@ -1,8 +1,0 @@
-{
-  "name": "sb-notification",
-  "version": "0.0.3",
-  "peerDependencies": {
-    "@angular/common": "^8.0.3",
-    "@angular/core": "^8.0.3"
-  }
-}
